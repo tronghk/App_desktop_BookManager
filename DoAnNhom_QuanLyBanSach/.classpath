@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/javax.mail.jar"/>
+	<classpathentry kind="lib" path="libs/jakarta.activation-1.2.1.jar"/>
+	<classpathentry kind="lib" path="libs/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="libs/jcommon-1.0.0.jar"/>
+	<classpathentry kind="lib" path="libs/jfreechart-1.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/junit.jar"/>
+	<classpathentry kind="lib" path="libs/servlet.jar"/>
+	<classpathentry kind="lib" path="libs/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="libs/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="libs/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="libs/poi-4.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/poi-ooxml-4.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/poi-ooxml-schemas-4.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/xmlbeans-3.0.2.jar"/>
+	<classpathentry kind="lib" path="libs/mysql-connector-java-8.0.28.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
